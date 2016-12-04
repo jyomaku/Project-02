@@ -278,7 +278,6 @@ nav {
 .intro {
 	float:left;
 	margin-top: 0;
-	padding-top: none;
 	text-align:left;
 	padding-left: 3.3em;
 }
@@ -303,4 +302,5 @@ nav {
 .paragraph6  {
 max-width: 33.33%;
 display: inline-block;
+}
 }
